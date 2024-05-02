@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|d:\\comgit\\prefinals_auth_reyes_byron\\prefinals_auth_reyes_byron\\authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|solutionrelative:prefinals_auth_reyes_byron\\authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|d:\\comgit\\prefinals_auth_reyes_byron\\prefinals_auth_reyes_byron\\protectedapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|solutionrelative:prefinals_auth_reyes_byron\\protectedapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|d:\\comgit\\prefinals_auth_reyes_byron\\prefinals_auth_reyes_byron\\authserver\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|solutionrelative:prefinals_auth_reyes_byron\\authserver\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|d:\\comgit\\prefinals_auth_reyes_byron\\prefinals_auth_reyes_byron\\authserver\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|solutionrelative:prefinals_auth_reyes_byron\\authserver\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|d:\\comgit\\prefinals_auth_reyes_byron\\prefinals_auth_reyes_byron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|solutionrelative:prefinals_auth_reyes_byron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|d:\\comgit\\prefinals_auth_reyes_byron\\prefinals_auth_reyes_byron\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|solutionrelative:prefinals_auth_reyes_byron\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|d:\\comgit\\prefinals_auth_reyes_byron\\prefinals_auth_reyes_byron\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|solutionrelative:prefinals_auth_reyes_byron\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|d:\\comgit\\prefinals_auth_reyes_byron\\prefinals_auth_reyes_byron\\authserver\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|solutionrelative:prefinals_auth_reyes_byron\\authserver\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|d:\\comgit\\prefinals_auth_reyes_byron\\prefinals_auth_reyes_byron\\authserver\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|solutionrelative:prefinals_auth_reyes_byron\\authserver\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|d:\\comgit\\prefinals_auth_reyes_byron\\prefinals_auth_reyes_byron\\authserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|solutionrelative:prefinals_auth_reyes_byron\\authserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|d:\\comgit\\prefinals_auth_reyes_byron\\prefinals_auth_reyes_byron\\authserver\\models\\namedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B7C36A-2107-4B94-9C80-A7E63E644EE7}|PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron.csproj|solutionrelative:prefinals_auth_reyes_byron\\authserver\\models\\namedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\ProtectedApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "PREFINALS_AUTH_Reyes_Byron\\ProtectedApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\ProtectedApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "PREFINALS_AUTH_Reyes_Byron\\ProtectedApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:29:21.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Startup.cs",
+              "RelativeDocumentMoniker": "PREFINALS_AUTH_Reyes_Byron\\Startup.cs",
+              "ToolTip": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Startup.cs",
+              "RelativeToolTip": "PREFINALS_AUTH_Reyes_Byron\\Startup.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:28:50.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Program.cs",
+              "RelativeDocumentMoniker": "PREFINALS_AUTH_Reyes_Byron\\Program.cs",
+              "ToolTip": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Program.cs",
+              "RelativeToolTip": "PREFINALS_AUTH_Reyes_Byron\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:37:46.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\appsettings.json",
+              "RelativeDocumentMoniker": "PREFINALS_AUTH_Reyes_Byron\\appsettings.json",
+              "ToolTip": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\appsettings.json",
+              "RelativeToolTip": "PREFINALS_AUTH_Reyes_Byron\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T09:35:50.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Services\\UserService.cs",
+              "ToolTip": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Services\\UserService.cs",
+              "RelativeToolTip": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:37:06.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Services\\IUserService.cs",
+              "ToolTip": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Services\\IUserService.cs",
+              "RelativeToolTip": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:36:59.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\UserInfo.cs",
+              "ToolTip": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\UserInfo.cs",
+              "RelativeToolTip": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\UserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:36:38.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\UserDto.cs",
+              "ToolTip": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\UserDto.cs",
+              "RelativeToolTip": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:36:12.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\User.cs",
+              "ToolTip": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\User.cs",
+              "RelativeToolTip": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:35:54.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAgwH0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:34:56.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NameDto.cs",
+              "DocumentMoniker": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\NameDto.cs",
+              "RelativeDocumentMoniker": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\NameDto.cs",
+              "ToolTip": "D:\\comgit\\PREFINALS_AUTH_Reyes_Byron\\PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\NameDto.cs",
+              "RelativeToolTip": "PREFINALS_AUTH_Reyes_Byron\\Authserver\\Models\\NameDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:48:26.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
