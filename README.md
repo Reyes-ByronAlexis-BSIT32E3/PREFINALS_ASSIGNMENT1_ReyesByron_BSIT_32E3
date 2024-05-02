@@ -56,4 +56,5 @@ Web API:
 - Traditional MVC applications may face performance issues due to frequent page refreshes or complex data exchanges, leading to increased server load, slower response times, and scalability issues. Utilizing Web APIs can alleviate these concerns.
 
 
+## At this time, you can't change your password or lock your account in this project. But no worries, I'll look into adding those options soon!
 
